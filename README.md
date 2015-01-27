@@ -1,6 +1,9 @@
 # HedgeHog-rules
+
 HedgeHog mod_security rules
+
 Copyright: Kurt Seifried 2015
+
 Author: Kurt Seifried (kurt@seifried.org)
 
 # Overview
